@@ -1,0 +1,11 @@
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Factory.deps.json
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Factory.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Factory.pdb
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.AssemblyInfoInputs.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.AssemblyInfo.cs
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\refint\EventBus.Factory.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.pdb
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\ref\EventBus.Factory.dll

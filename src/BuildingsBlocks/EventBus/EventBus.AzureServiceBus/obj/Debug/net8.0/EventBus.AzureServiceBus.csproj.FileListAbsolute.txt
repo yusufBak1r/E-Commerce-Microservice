@@ -1,0 +1,11 @@
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net8.0\EventBus.AzureServiceBus.deps.json
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net8.0\EventBus.AzureServiceBus.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net8.0\EventBus.AzureServiceBus.pdb
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.AssemblyInfoInputs.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.AssemblyInfo.cs
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\refint\EventBus.AzureServiceBus.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.pdb
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\ref\EventBus.AzureServiceBus.dll
