@@ -131,7 +131,7 @@
               "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
               "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T14:19:43.123Z",
               "EditorCaption": ""
@@ -139,15 +139,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EventBus.Base",
+              "Title": "EventBus.Base.csproj",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
               "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
               "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T14:17:55.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T14:17:55.348Z"
             },
             {
               "$type": "Document",
@@ -159,8 +158,7 @@
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:35:48.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T13:35:48.954Z"
             },
             {
               "$type": "Document",
@@ -172,8 +170,7 @@
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:21:09.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T13:21:09.646Z"
             },
             {
               "$type": "Document",
@@ -185,8 +182,7 @@
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:15:20.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T13:15:20.446Z"
             },
             {
               "$type": "Document",
@@ -198,8 +194,7 @@
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:10:00.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T13:10:00.556Z"
             },
             {
               "$type": "Document",
@@ -211,21 +206,19 @@
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:32:26.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T13:32:26.63Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PaymentService.Api",
+              "Title": "PaymentService.Api.csproj",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
               "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
               "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
               "RelativeToolTip": "src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T12:59:48.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T12:59:48.193Z"
             },
             {
               "$type": "Document",
@@ -237,8 +230,7 @@
               "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T12:51:18.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T12:51:18.475Z"
             },
             {
               "$type": "Document",
@@ -250,8 +242,7 @@
               "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T12:49:09.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T12:49:09.762Z"
             },
             {
               "$type": "Document",
@@ -263,8 +254,7 @@
               "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T09:05:58.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T09:05:58.469Z"
             },
             {
               "$type": "Document",
@@ -299,8 +289,7 @@
               "RelativeToolTip": "src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Web.ApiGateway.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T08:05:17.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T08:05:17.719Z"
             },
             {
               "$type": "Document",
@@ -324,8 +313,7 @@
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T07:54:38.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T07:54:38.895Z"
             },
             {
               "$type": "Document",
