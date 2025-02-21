@@ -1,0 +1,15 @@
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\bin\Debug\net8.0\NotificationService.exe
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\bin\Debug\net8.0\NotificationService.deps.json
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\bin\Debug\net8.0\NotificationService.runtimeconfig.json
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\bin\Debug\net8.0\NotificationService.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\bin\Debug\net8.0\NotificationService.pdb
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\NotificationService.sourcelink.json
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\NotificationService.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\NotificationService.pdb
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\NotificationService.genruntimeconfig.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\Notification\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll

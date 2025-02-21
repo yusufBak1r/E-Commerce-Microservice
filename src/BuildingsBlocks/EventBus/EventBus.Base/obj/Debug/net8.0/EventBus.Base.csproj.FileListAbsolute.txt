@@ -9,3 +9,5 @@ C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\Event
 C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\refint\EventBus.Base.dll
 C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.pdb
 C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\ref\EventBus.Base.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.sourcelink.json

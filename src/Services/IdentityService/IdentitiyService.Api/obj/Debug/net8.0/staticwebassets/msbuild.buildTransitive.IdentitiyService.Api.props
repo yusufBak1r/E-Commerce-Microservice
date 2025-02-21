@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IdentitiyService.Api.props" />
+</Project>

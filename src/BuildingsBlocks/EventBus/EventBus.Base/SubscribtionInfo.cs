@@ -8,7 +8,7 @@ namespace EventBus.Base
 {
     public class SubscribtionInfo
     {
-        public Type type { get; set; }
+        public Type HandlerType { get; }
 
         public SubscribtionInfo(Type type)
         {

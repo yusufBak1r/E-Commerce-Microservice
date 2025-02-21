@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\inmemoryeventbussubscriptionmanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\inmemoryeventbussubscriptionmanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{640A10C0-68D2-4827-895D-D0ABDB6D7F90}|src\\BuildingsBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.azureservicebus\\eventbusservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640A10C0-68D2-4827-895D-D0ABDB6D7F90}|src\\BuildingsBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.azureservicebus\\eventbusservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\events\\baseeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\events\\baseeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\eventbusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\eventbusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\ieventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\ieventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\eventbus.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\eventbus.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\inmemoryeventbussubscriptionmanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\inmemoryeventbussubscriptionmanager\\inmemoryeventbussubscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\abstraction\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\subscribtioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\subscribtioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A6E907-A2E9-49FD-9313-3F2E474F00EF}|src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\services\\orderservice\\orderservice.domain\\orderservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64A6E907-A2E9-49FD-9313-3F2E474F00EF}|src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:src\\services\\orderservice\\orderservice.domain\\orderservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\buildingsblocks\\eventbus\\eventbus.base\\eventbus.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A467C3AD-F76E-4276-B388-DD2D1043CB0C}|src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj|solutionrelative:src\\buildingsblocks\\eventbus\\eventbus.base\\eventbus.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{142D3B1D-409F-48C3-8F3F-B71B521E57D8}|src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj|c:\\users\\yusuf.bakir\\source\\repos\\sellingbudy\\src\\services\\paymentservice\\paymentservice.api\\paymentservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -113,10 +129,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -124,57 +136,116 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InMemoryEventBusSubscriptionManager.cs",
-              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
-              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
-              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
-              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Title": "EventBusServiceBus.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
+              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
+              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T14:19:43.123Z",
+              "WhenOpened": "2025-02-21T08:18:09.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventBus.Base.csproj",
-              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T14:17:55.348Z"
+              "DocumentIndex": 1,
+              "Title": "BaseEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\BaseEventBus.cs",
+              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\BaseEventBus.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\BaseEventBus.cs",
+              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\BaseEventBus.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:16:36.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IEventBusSubscriptionManager.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
               "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
               "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBusSubscriptionManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:35:48.954Z"
+              "WhenOpened": "2025-02-14T13:35:48.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IEventBus.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
               "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
               "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IEventBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:21:09.646Z"
+              "WhenOpened": "2025-02-14T13:21:09.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "EventBusConfig.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBusConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:06:10.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubscribtionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
+              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
+              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:32:26.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryEventBusSubscriptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
+              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
+              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\InMemoryEventBusSubscriptionManager\\InMemoryEventBusSubscriptionManager.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwHMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:24:33.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
+              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:10:00.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IIntegrationEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
               "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
@@ -182,35 +253,36 @@
               "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Abstraction\\IIntegrationEventHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:15:20.446Z"
+              "WhenOpened": "2025-02-14T13:15:20.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IntegrationEvent.cs",
-              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
-              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
-              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
-              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\Events\\IntegrationEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:10:00.556Z"
+              "DocumentIndex": 9,
+              "Title": "OrderService.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T12:05:54.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SubscribtionInfo.cs",
-              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
-              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
-              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
-              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\SubscribtionInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:32:26.63Z"
+              "DocumentIndex": 10,
+              "Title": "EventBus.Base.csproj",
+              "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+              "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+              "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+              "RelativeToolTip": "src\\BuildingsBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T14:17:55.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PaymentService.Api.csproj",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
               "RelativeDocumentMoniker": "src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
@@ -222,19 +294,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
               "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
               "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T12:51:18.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
               "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
@@ -246,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "OrderService.Api.csproj",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
               "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
@@ -258,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\Notification\\NotificationService\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\Notification\\NotificationService\\Program.cs",
@@ -270,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Services\\Notification\\NotificationService.Console\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\Notification\\NotificationService.Console\\Program.cs",
@@ -281,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Web.ApiGateway.csproj",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Web.ApiGateway.csproj",
               "RelativeDocumentMoniker": "src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Web.ApiGateway.csproj",
@@ -293,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -305,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "EventBus.Factory.csproj",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\BuildingsBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
               "RelativeDocumentMoniker": "src\\BuildingsBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
@@ -317,19 +389,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Program.cs",
               "ToolTip": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Program.cs",
               "RelativeToolTip": "src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAABBwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T07:45:31.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Web.ApiGateway.http",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Web.ApiGateway.http",
               "RelativeDocumentMoniker": "src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\Web.ApiGateway.http",
@@ -341,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "src\\AppGateways\\WebapiGeteWay\\Web.ApiGateway\\WeatherForecast.cs",
@@ -353,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ServiceUrls.txt",
               "DocumentMoniker": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\ServiceUrls.txt",
               "RelativeDocumentMoniker": "ServiceUrls.txt",

@@ -14,3 +14,4 @@ namespace EventBus.Base.Abstraction
         void UnSubscribe<T, TH>() where T : IntegrationEvent where TH : IIntegrationEventHandler<T>;
     }
 }
+        

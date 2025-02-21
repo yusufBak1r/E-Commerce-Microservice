@@ -1,0 +1,12 @@
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.deps.json
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.pdb
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.AssemblyInfo.cs
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.sourcelink.json
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\refint\OrderService.Infrastructure.dll
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.pdb
+C:\Users\yusuf.bakir\source\repos\SellingBudy\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\ref\OrderService.Infrastructure.dll
