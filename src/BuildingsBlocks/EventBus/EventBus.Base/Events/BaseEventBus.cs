@@ -26,6 +26,7 @@ namespace EventBus.Base.Events
          public virtual void Dispose()
         {
             EventBusConfig = null;
+            _subsManager.Clear();
         }
 
         public  virtual string ProcessEventName(string eventName)

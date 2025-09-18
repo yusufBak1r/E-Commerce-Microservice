@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "6d6cOPK1LgABt/LhOSYBSMmBaOSfYtpVIGuS/ugfM3w=",
+  "Hash": "/YYShkSNOycwajPMXSh6R+CFshtLnbD+rW/Qym8Rha8=",
   "Source": "CatalogService.Api",
   "BasePath": "_content/CatalogService.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

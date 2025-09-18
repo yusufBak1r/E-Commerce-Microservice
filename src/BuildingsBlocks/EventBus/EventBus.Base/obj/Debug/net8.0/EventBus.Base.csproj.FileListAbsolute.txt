@@ -11,3 +11,16 @@ C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\Event
 C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\ref\EventBus.Base.dll
 C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.csproj.AssemblyReference.cache
 C:\Users\yusuf.bakir\source\repos\SellingBudy\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.sourcelink.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.AssemblyInfo.cs
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.sourcelink.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\refint\EventBus.Base.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\EventBus.Base.pdb
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\bin\Debug\net8.0\EventBus.Base.deps.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\bin\Debug\net8.0\EventBus.Base.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\bin\Debug\net8.0\EventBus.Base.pdb
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Base\obj\Debug\net8.0\ref\EventBus.Base.dll

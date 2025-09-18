@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "MHVJRR/0DNTkw9z66oM3j4hCOlWtESvw40OYKAJ/UOY=",
+  "Hash": "u777BJRtoC6muK6LbkFyCAvC4cxHXuGZdLWBK+9bosk=",
   "Source": "IdentitiyService.Api",
   "BasePath": "_content/IdentitiyService.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HrnyNwWF1RF5Eik5JVIKXh7lED+Bl01kqmRZR0tzbvw=",
+  "Hash": "apaDz7QkT3bjabzNnIuPeB+gC7QqQwlAXrx3Q2AFJ5c=",
   "Source": "Client.WebApp",
   "BasePath": "_content/Client.WebApp",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "Client.WebApp\\wwwroot",
       "Source": "Client.WebApp",
-      "ContentRoot": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
       "BasePath": "_content/Client.WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.WebApp.styles.css",
+      "Identity": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.WebApp.styles.css",
       "SourceId": "Client.WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Client.WebApp",
-      "RelativePath": "Client.WebApp.styles.css",
+      "RelativePath": "Client.WebApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,17 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "s13suc5c51",
+      "Integrity": "cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.WebApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.WebApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.WebApp.bundle.scp.css",
+      "Identity": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.WebApp.bundle.scp.css",
       "SourceId": "Client.WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Client.WebApp",
-      "RelativePath": "Client.WebApp.bundle.scp.css",
+      "RelativePath": "Client.WebApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -50,85 +52,589 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "s13suc5c51",
+      "Integrity": "cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.WebApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.WebApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\app.css",
       "SourceId": "Client.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
       "BasePath": "_content/Client.WebApp",
-      "RelativePath": "app.css",
+      "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Client.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
       "BasePath": "_content/Client.WebApp",
-      "RelativePath": "bootstrap/bootstrap.min.css",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Client.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
       "BasePath": "_content/Client.WebApp",
-      "RelativePath": "bootstrap/bootstrap.min.css.map",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\favicon.png",
       "SourceId": "Client.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yusuf.bakir\\source\\repos\\SellingBudy\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\",
       "BasePath": "_content/Client.WebApp",
-      "RelativePath": "favicon.png",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "Client.WebApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.WebApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU="
+        }
+      ]
+    },
+    {
+      "Route": "Client.WebApp.s13suc5c51.bundle.scp.css",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.WebApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s13suc5c51"
+        },
+        {
+          "Name": "label",
+          "Value": "Client.WebApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU="
+        }
+      ]
+    },
+    {
+      "Route": "Client.WebApp.s13suc5c51.styles.css",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.WebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s13suc5c51"
+        },
+        {
+          "Name": "label",
+          "Value": "Client.WebApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU="
+        }
+      ]
+    },
+    {
+      "Route": "Client.WebApp.styles.css",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.WebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNwDBilyZJ8jAE7egHnqb/VkI0eCHrInALwPmINf/JU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\yusuf.bakir\\Desktop\\E-c\\E-Commerce-Microservice\\src\\Clients\\WebClient\\Client.WebApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 12:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
     }
   ]
 }

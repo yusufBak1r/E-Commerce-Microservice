@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EventBus.Base.Abstraction
 {
-    internal interface IEventBus
+    internal interface IEventBus:IDisposable
     {
         void Publish(IntegrationEvent @event);
         void Subscribe<T, TH>() where T : IntegrationEvent where TH:IIntegrationEventHandler<T>;
