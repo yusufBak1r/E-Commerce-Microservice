@@ -14,7 +14,7 @@ namespace EventBus.AzureServiceBus
 {
     public class EventBusServiceBus : BaseEventBus
     {
-        private ITopicClient topicClient;
+        private  ITopicClient topicClient;
         private ManagementClient managerClient;
         private ILogger logger; 
 

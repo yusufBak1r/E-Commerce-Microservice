@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Polly" Version="8.6.3" />
+    <PackageReference Include="RabbitMQ.Client" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\EventBus.Base\EventBus.Base.csproj" />
   </ItemGroup>
 

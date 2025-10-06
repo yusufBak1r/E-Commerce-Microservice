@@ -55,12 +55,6 @@ C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentSer
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets\msbuild.PaymentService.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets\msbuild.PaymentService.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentService.Api.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentService.Api.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentService.Api.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\PaymentS.E1B01A73.Up2Date
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.dll
@@ -68,3 +62,8 @@ C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentSer
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.pdb
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.genruntimeconfig.cache
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\ref\PaymentService.Api.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\Services\PaymentService\PaymentService.Api\obj\Debug\net8.0\staticwebassets.build.json.cache

@@ -54,12 +54,6 @@ C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiG
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Web.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.Web.ApiGateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.ApiGateway.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.ApiGateway.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.ApiGateway.props
-C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\Web.ApiG.D021E063.Up2Date
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\Web.ApiGateway.dll
@@ -67,3 +61,8 @@ C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiG
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\Web.ApiGateway.pdb
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\Web.ApiGateway.genruntimeconfig.cache
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\ref\Web.ApiGateway.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\AppGateways\WebapiGeteWay\Web.ApiGateway\obj\Debug\net8.0\staticwebassets.build.json.cache

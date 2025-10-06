@@ -18,3 +18,10 @@ C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\Eve
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.dll
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\refint\EventBus.RabbitMQ.dll
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.pdb
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.RabbitMQ.deps.json
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.RabbitMQ.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.RabbitMQ.pdb
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.Base.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.Base.pdb
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.D83D059C.Up2Date
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\ref\EventBus.RabbitMQ.dll

@@ -21,3 +21,11 @@ C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\Eve
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\refint\EventBus.Factory.dll
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.pdb
 C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\ref\EventBus.Factory.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.csproj.AssemblyReference.cache
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.AzureServiceBus.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Base.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.RabbitMQ.dll
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.AzureServiceBus.pdb
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Base.pdb
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.RabbitMQ.pdb
+C:\Users\yusuf.bakir\Desktop\E-c\E-Commerce-Microservice\src\BuildingsBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.DF3238A7.Up2Date
