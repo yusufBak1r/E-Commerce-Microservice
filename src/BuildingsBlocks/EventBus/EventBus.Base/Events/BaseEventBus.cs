@@ -49,31 +49,39 @@ namespace EventBus.Base.Events
         {
             eventName = ProcessEventName(eventName);    
             var process = false;
-
-            if (_subsManager.HasSubscriptionForEvent(eventName))
+            try
             {
-                var subscriptions = _subsManager.GetHandlersForEvent(eventName);
-
-                using (var scope = _serviceProvider.CreateScope())
+                if (_subsManager.HasSubscriptionForEvent(eventName))
                 {
-                    foreach (var subscription in subscriptions)
+                    var subscriptions = _subsManager.GetHandlersForEvent(eventName);
+
+                    using (var scope = _serviceProvider.CreateScope())
                     {
-                        var handler = _serviceProvider.GetService(subscription.HandlerType);
+                        foreach (var subscription in subscriptions)
+                        {
+                            var handler = _serviceProvider.GetService(subscription.HandlerType);
 
-                        if (handler == null) continue;
-                        var eventType = _subsManager.GetEventTypeByName(eventName);
+                            if (handler == null) continue;
+                            var eventType = _subsManager.GetEventTypeByName(eventName);
 
-                        var integrationEvent = JsonConvert.DeserializeObject(message, eventType);
+                            var integrationEvent = JsonConvert.DeserializeObject(message, eventType);
 
-                        var concreteType = typeof(IIntegrationEventHandler<>).MakeGenericType(eventType);
+                            var concreteType = typeof(IIntegrationEventHandler<>).MakeGenericType(eventType);
 
-                        await Task.Yield();
-                        await (Task)concreteType.GetMethod("Handle").Invoke(handler, new object[] { integrationEvent });
+                            await Task.Yield();
+                            await (Task)concreteType.GetMethod("Handle").Invoke(handler, new object[] { integrationEvent });
+                            process = true;
+                        }
                         process = true;
                     }
-                    process = true;
                 }
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+
             return process;
         }
         public virtual void Publish(IntegrationEvent @event)

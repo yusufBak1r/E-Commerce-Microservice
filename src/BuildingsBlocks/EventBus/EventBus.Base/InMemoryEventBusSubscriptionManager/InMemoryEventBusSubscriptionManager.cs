@@ -17,7 +17,7 @@ namespace EventBus.Base
 
         public Func<string, string> eventNameGetter;
 
-        public InMemoryEventBusSubscriptionManager(Func<string, string> eventNameGetter)
+        public InMemoryEventBusSubscriptionManager(Func<string,string> eventNameGetter)
         {
             _handlers = new Dictionary<string, List<SubscribtionInfo>>();
             _eventType = new List<Type>();

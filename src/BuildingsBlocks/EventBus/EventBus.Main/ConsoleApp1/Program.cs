@@ -17,18 +17,21 @@ class Program
     {
         var host = CreateHost();
         var eventBus = host.Services.GetRequiredService<IEventBus>();
-        var order = new OrderCreatedIntegrationEvent(1);
+        var order = new OrderCreatedIntegrationEvent(5);
 
         eventBus.Publish(order);
 
-        //eventBus.Subscribe<OrderCreatedIntegrationEvent, OrderCreatedIntegrationEventHandler>();
-        //Console.WriteLine("Subscribed to OrderCreatedIntegrationEvent");
+        eventBus.Subscribe<OrderCreatedIntegrationEvent, OrderCreatedIntegrationEventHandler>();
+        Console.WriteLine("Subscribed to OrderCreatedIntegrationEvent");
 
-        //eventBus.UnSubscribe<OrderCreatedIntegrationEvent, OrderCreatedIntegrationEventHandler>();
+        ////eventBus.UnSubscribe<OrderCreatedIntegrationEvent, OrderCreatedIntegrationEventHandler>();
+
+        Console.ReadKey();
+   
         //Console.WriteLine("Unsubscribed from OrderCreatedIntegrationEvent");
- 
+
         //Console.ReadLine();
-       
+
     }
     public static IHost CreateHost()
     {
@@ -48,8 +51,8 @@ class Program
                 var configure = new EventBusConfig()
                 {
                     ConnectionRetryCount = 5,
-                    SubscriberClientAppName = "EventBus.Main",
-                    DefaultTopicName = "Anonymous.Tehc",
+                    SubscriberClientAppName = "Anonymous.Tehc",
+                    DefaultTopicName = "SellingBuddyTopicName",
                     EventBusType = EventBusType.RabbitMQ,
                     EventNameSuffix = "IntegrationEvent",
                     //Connection = new ConnectionFactory()
@@ -64,7 +67,7 @@ class Program
             });
            
             service.AddTransient<OrderCreatedIntegrationEventHandler>();
-            service.BuildServiceProvider();
+            //service.BuildServiceProvider();
 
 
 

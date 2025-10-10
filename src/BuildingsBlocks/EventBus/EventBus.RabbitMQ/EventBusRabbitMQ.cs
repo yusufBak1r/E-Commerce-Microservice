@@ -66,8 +66,11 @@ namespace EventBus.RabbitMQ
                 //log
             });
             var evenName = @event.GetType().Name;
+
             evenName = ProcessEventName(evenName);
+
             consumerChannel.ExchangeDeclare(exchange: EventBusConfig.DefaultTopicName, type: "direct");
+
             var message = JsonConvert.SerializeObject(@event);
             var body = Encoding.UTF8.GetBytes(message);
             policy.Execute(() =>
@@ -85,14 +88,19 @@ namespace EventBus.RabbitMQ
           
             var eventName = typeof(T).Name;
             eventName = ProcessEventName(eventName);
-            eventName = ProcessEventName(eventName);
+      
             if (!_subsManager.HasSubscriptionForEvent(eventName))
             {
-                if (!persistentConnection.TryConnect()) {
-                    consumerChannel.QueueDeclare(queue: GetSubName(eventName), durable: true, exclusive: false, autoDelete: false, arguments: null);
-                    consumerChannel.QueueBind(queue:GetSubName(eventName),exchange:EventBusConfig.DefaultTopicName,routingKey:eventName);
+                if (!persistentConnection.IsConnected) {
+
+                    persistentConnection.TryConnect();
+
+           
                 }
-            
+                consumerChannel.QueueDeclare(queue: GetSubName(eventName), durable: true, exclusive: false, autoDelete: false, arguments: null);
+
+                consumerChannel.QueueBind(queue: GetSubName(eventName), exchange: EventBusConfig.DefaultTopicName, routingKey: eventName);
+
             }
             _subsManager.AddSubscription<T, TH>();
             StartBasicConsume(eventName);
@@ -107,7 +115,7 @@ namespace EventBus.RabbitMQ
         //        if (!persistentConnection.IsConnected)
         //            persistentConnection.TryConnect();
 
-        //        // Queue ve binding her zaman oluştur
+        //        Queue ve binding her zaman oluştur
         //        consumerChannel.QueueDeclare(
         //            queue: GetSubName(eventName),
         //            durable: true,
